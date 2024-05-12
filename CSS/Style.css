@@ -9,6 +9,9 @@ img{
 }
 h1{
     border:5px dotted purple;
+    color:white;
+    background-color: black;
+    text-align: center;
 }
 blockquote{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -29,5 +32,23 @@ h2{
 .bigbold {
     font-family: cursive;
     font-size:1.3rem ;
+}
+a:link {
+    font-weight: bold;
+    text-decoration: none;
+    color: lightpink;
+}
+a:visited {
+    color: green;
+    font-size: 2rem;
+    font-weight: normal;
+}
+a:hover {
+    color:blue;
+    text-decoration: underline;
+    background-color: beige;
+}
+a.harvard:link {
+    color: maroon;
 }
 
