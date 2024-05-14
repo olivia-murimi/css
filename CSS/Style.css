@@ -48,7 +48,10 @@ a:hover {
     text-decoration: underline;
     background-color: beige;
 }
-a.harvard:link {
-    color: maroon;
+.harvard.a:link {
+    color :black;
 }
+    
+
+
 
