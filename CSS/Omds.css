@@ -1,0 +1,37 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:peachpuff;
+}
+img {
+    border:5px solid brown
+}
+h1 {
+    border:5px dotted blue
+}
+blockquote {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:2rem;
+    font-weight: bold;
+}
+cite {
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bigbold {
+    font-weight: bold;
+    font-size:1rem; 
+}
+a:link {
+    font-weight:bold;
+    text-decoration: dotted;
+    color: aqua;
+}
+a:visited {
+    font-weight: lighter;
+    text-decoration: none;
+    color:lightcoral;
+}
+a: hover {
+    color:blue;
+    text-decoration:underlined;
+    background-color:beige;
+}

@@ -7,7 +7,7 @@ body {
 img{
     border: 10px solid rgb(8, 135, 233);
 }
-h1{
+h1, h2{
     border:5px dotted purple;
     color:white;
     background-color: black;
@@ -25,10 +25,7 @@ cite{
 .bigbold {
     font-weight: bold;
     font-size: 1.3rem;
-}
-h2{
-    border: 5px dotted blue;
-}
+
 .bigbold {
     font-family: cursive;
     font-size:1.3rem ;
@@ -36,7 +33,7 @@ h2{
 a:link {
     font-weight: bold;
     text-decoration: none;
-    color: lightpink;
+    color:lightsalmon;
 }
 a:visited {
     color: green;
@@ -51,7 +48,11 @@ a:hover {
 .harvard.a:link {
     color :black;
 }
-    
+#myid {
+    color: ourple;
+    font-weight:bold;
+}
+
 
 
 
